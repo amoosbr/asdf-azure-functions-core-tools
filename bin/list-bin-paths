@@ -1,1 +1,1 @@
-echo /
+echo "${ASDF_INSTALL_PATH}"
